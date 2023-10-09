@@ -73,15 +73,15 @@ https://guides.github.com/activities/hello-world/
 
 Glossary
 
-1) **Branch** - 
-2) **Clone** - 
-3) **Commit** - 
-4) **Fetch** - 
-5) **GIT** - 
-6) **GitHub** - 
-7) **Merge** - 
-8) **Merge Conflict** - 
-9) **Push** - 
-10) **Pull** - 
-11) **Remote** - 
-12) **Repository** - 
+1) **Branch** - A branch allows a computer program to diverge from the default behavior of processing instructions in order to execute a new set of instructions.
+2) **Clone** - A Clone refers to the act of duplicating something exactly.
+3) **Commit** - A Commit is an action that updates the repository with the most recent source code changes.
+4) **Fetch** - A Fetch is the process of data retrieval by a hardware device, software script, or software program.
+5) **GIT** - Git is a version control tool used to monitor changes made to digital assets.
+6) **GitHub** - GitHub is a platform for collaboration and version control.
+7) **Merge** - Merge is a key procedure that combines numerous modifications made to a group of files that is versioned.
+8) **Merge Conflict** - Merge Conflict is an occurrence that happens when Git is unable to reconcile code discrepancies between two commits automatically.
+9) **Push** - Push is sending code from a branch in your local source code repository to a branch in the remote repository, often known as uploading.
+10) **Pull** - Pull is a form of network communication in which the client makes the initial request for data, and the server then responds.
+11) **Remote** - Remote is the capacity for an authorized user to connect to a computer or network over a network from a distance.
+12) **Repository** - A Repository is a central digital repository that programmers use to manage source code modifications for applications.
